@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-srivastava010&theme=radical&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph-nine-brown.vercel.app/graph?username=aditya-srivastava010&theme=radical&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=false" width="100%"/>
 
 </div>
 
